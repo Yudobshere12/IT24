@@ -1,0 +1,75 @@
+[
+    {
+      "student_id": 20231053,
+      "student_name": "ron andrei manuel",
+      "student_program": "BS-Information technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+    {
+      "student_id": 20231052,
+      "student_name": "hiether fiona liloan",
+      "student_program": "BS-Information technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+    {
+      "student_id": 20231035,
+      "student_name": "Kristine Lopez",
+      "student_program": "BS - Information Technology",
+      "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231611,
+        "student_name": "James Berth",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+      },
+    {
+        "student_id": 20231493,
+        "student_name": "raime pilapil",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231490,
+        "student_name": "january tagoylo",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231287,
+        "student_name": "Rainiel Jevson Bernales",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20211436,
+        "student_name": "Bosh Dave Nagrampa",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2021-08-05"
+    },
+    {
+        "student_id": 20231704,
+        "student_name": "Francis E Mijares",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231811,
+        "student_name": "Rainiel Jevson Bernales",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20231993,
+        "student_name": "Peter Ranario",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    },
+    {
+        "student_id": 20221545,
+        "student_name": "Bosh Dave Nagrampa",
+        "student_program": "BS - Information Technology",
+        "student_enrolled_date": "2023-08-05"
+    }
+  ]
+  
