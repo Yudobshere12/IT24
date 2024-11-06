@@ -3,36 +3,36 @@
       "title": "Applet 1 - Basic Events",
       "description": "This application contains the basic implementation of DOM events.",
       "image": "https://static.independent.co.uk/2022/06/12/10/iStock-1199279669.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp",
-      "link": "./applet-1.html"
+      "link": "applet-1.html"
     },
     {
       "title": "Applet 2 - Leaflet Map",
       "description": "This application contains the basic web map.",
       "image": "https://yourpetdentist.com/wp-content/uploads/2024/02/pexels-anna-shvets-4587970.jpg",
-      "link": "./applet-2.html"
+      "link": "applet-2.html"
     },
     {
       "title": "Applet 3 - Event Logger",
       "description": "This application logs various events.",
       "image": "https://images.ctfassets.net/cnu0m8re1exe/7eshMoKNw0h5YWa2erHkm0/0662377c0fa62afa0be8c608bc41895f/cat-facial-expression.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",
-      "link": "./applet-3.html"
+      "link": "applet-3.html"
     },
     {
       "title": "Applet 4 - Dynamic Elements",
       "description": "This contains the search bar of the data that has on the applet-4.json file.",
       "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/07/Cat.jpg?w=876&h=493&crop=1",
-      "link": "./applet-4.html"
+      "link": "applet-4.html"
     },
     {
       "title": "Applet 5 - Weather App",
       "description": "This application is the basic usage of the Openweather API.",
       "image": "https://bylinetimes.com/wp-content/uploads/2023/06/2J3HG3F-1308x872.jpg",
-      "link": "./applet-5.html"
+      "link": "applet-5.html"
     },
     {
       "title": "Applet 6 - To Do List",
       "description": "A to-do list is a tool that helps individuals manage tasks by allowing them to add, edit, and remove items.",
       "image": "https://urgentvet.com/wp-content/uploads/2024/05/coughing-in-cats-causes-treatment-urgentvet.com-1.jpg",
-      "link": "./applet-6.html"
+      "link": "applet-6.html"
     }
   ]
